@@ -1,0 +1,19 @@
+# Data files
+data/
+*.json
+*.json.gz
+*.tmp
+*.csv
+
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
